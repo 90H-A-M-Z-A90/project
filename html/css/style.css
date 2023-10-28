@@ -1,0 +1,414 @@
+*{
+
+margin: 0px ;
+
+
+}
+body{
+    background-color: #f6f6f6 ;
+}
+
+.habro{
+    width: 100% ;
+    height: 120px ;
+    background-color: #ffc716;
+    display: flex;
+
+    }
+    .html{
+        margin-left: 100px ;
+    }
+    .header{
+        width: 60px ;
+    }
+    .headrul    li{
+margin-left: 50px ;
+      display: inline;
+color: white;
+font-size: 24px ;
+    }
+    .headrul{
+
+        margin-top: 31px ;   
+    }
+    .dorm{
+background-color: rgb(238, 25, 25);
+color: rgb(255, 255, 255);
+border-radius: 37px ;
+width: 160px ;
+height: 40px ;
+margin-top: 29px ;
+margin-left: 50px ;
+border: none ;
+font-size: 20px ;
+    }
+
+    .we-sing{
+        display:flex;
+width: 100% ;
+height: 500px ;
+background-image: url(../image/Untitled.jpg) ;
+/* background-size: cover ; */
+background-repeat: no-repeat ;
+background-position: center ;
+    }
+    .wesing{
+color: white;
+font-size: 90px ;
+margin-top: 130px ;
+    }
+.parent5{
+    display:flex;
+width: 100% ;
+height: 700px;
+text-align: center;
+justify-content: space-evenly ;
+}
+
+
+.arabkid{
+text-align: center;
+color: #3c96af;
+margin-top: 100px ;
+padding-bottom: 40px ;
+}
+.youtube2{
+border-radius: 30px ;
+
+}
+.mobile2{
+    border-radius: 30px ;
+
+}
+.book2{
+    border-radius: 30px ;
+
+}
+.youtube3{
+    color: #3c96af;
+}
+.yt3{
+color: #1b6174;
+}
+.you3{
+    border-radius: 30px ;
+    background-color: rgb(238, 25, 25);
+    color: white ;
+    width: 167px ;
+    height: 50px ;
+    margin-top: 10px ;
+    border: none ;
+}
+.book3{
+    color: #3c96af;
+}
+.bo3{
+    color: #1b6174;
+}
+.boc3{
+    border-radius: 30px ;
+    background-color: rgb(238, 25, 25);
+    color: white ;
+    width: 167px ;
+    height: 50px ;
+    margin-top: 10px ;
+    border: none ;
+}
+
+.mobile3{
+    color: #3c96af;
+}
+.mb3{
+    color: #1b6174;
+}
+.mob3{
+    border-radius: 30px ;
+    background-color: rgb(238, 25, 25);
+    color: white ;
+    width: 167px ;
+    height: 50px ;
+    margin-top: 10px ;
+    border: none ;
+}
+.start{
+background-image: url(../image/eeb8914b-fe9d-4444-8028-b2a5321a49fe.jpg) ;
+width: 100%;
+height: 250px;
+background-repeat: no-repeat;
+background-size: cover ;
+background-position: top ;
+}
+.story3{
+text-align: center;
+color: #1b6174;
+padding-top: 100px ;
+}
+.story4{
+text-align: center;
+color: #1b6174;
+margin-top: 40px;
+}
+.gard{
+
+width: 100% ;
+height: 400px ;
+display: flex;
+justify-content: space-evenly ;
+}
+.type{
+color: #8dc540;
+text-align: center;
+margin-top: 50px;
+padding-bottom: 40px ;
+}
+.card1{
+width: 300px ;
+height: 300px ;
+background-color: #a9436d ;
+border-radius: 50px ;
+margin-top: 60px ;
+}
+.cards2{
+margin-left: 30px ;
+padding-top: 40px ;
+color: white;
+
+}
+.cards1{
+    color: white;
+    margin-left: 40px ;
+    margin-top: 30px ;
+}
+.mbvc32{
+    color: white;
+margin-left: 50px;
+margin-top: 20px;
+}
+.stories1{
+    width: 300px ;
+height: 300px ;
+background-color:#8dc540 ;
+border-radius: 50px ;
+
+margin-top: 60px ;
+color: white ;
+}
+.storytime{
+    margin-left: 30px ;
+    padding-top: 40px ;
+    color: white;
+}
+.showtimeisonthehour{
+    color: white;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.majkih{
+    color: white;
+    margin-left: 40px ;
+    margin-top: 30px ;
+}
+.songs1{
+    width: 300px ;
+height: 300px ;
+background-color: #eed793;
+border-radius: 50px ;
+margin-top: 60px ;
+color: white ;
+}
+.bcv{
+background-color: #ec97b8;
+width: 300px ;
+height: 300px ;
+border-radius: 50px ;
+margin-top: 60px ;
+}
+.ioioi{
+background-color:#9dd3db;
+width: 300px ;
+height: 300px ;
+border-radius: 50px ;
+margin-top: 60px ;
+}
+.brbrgh{
+    background-color:#f6a6ff;
+width: 300px ;
+height: 300px ;
+border-radius: 50px ;
+margin-top: 60px ;
+}
+.borde{
+    border-radius: 30px ;
+    background-color: rgb(188, 9, 200);
+    color: white ;
+    width: 300px ;
+    height: 50px ;
+    border: none ;
+    margin-left: 530px ;
+
+}
+.inpactnumbers{
+background-image: url(../image/d436af65-c7df-49c6-9772-7989ad7adf72.jpg)  ;
+width: 100% ;
+height: 770px ;
+margin-top: 100px ;
+}
+.mybrainisnotbrraining{
+    color: #1b6174;
+    text-align: center;
+padding-bottom: 30px ;
+padding-top: 40px ;
+}
+.playmore{
+    width: 100% ;
+    height: 400px ;
+    display: flex;
+    justify-content: space-evenly ;
+    text-align: center;
+}
+.infantry,.antiaircraft,.tanks{
+    border: 3px solid #8dc540;
+    width: 250px ;
+    height: 250px ;
+    border-radius: 30px ;
+}
+.palastain{
+color: orange;
+margin-top: 80px ;
+}
+.egypt{
+color: #1b6174;
+margin-top: 40px ;
+}
+.JoinYourChildOnAnArabicAdventure{
+background-color:#8cc63e;
+width: 910px ;
+height: 600px ;
+display: flex;
+border-radius: 30px ;
+margin: auto ;
+margin-top: 50px ;
+}
+.meta2{
+color: white;
+
+}
+.meta3{
+color: white;
+margin-top: 20px ;
+margin-bottom: 20px ;
+}
+.forthetext
+{
+    width: 500px ;
+padding: 100px ;
+}
+.arrow{
+    color: white ;
+}
+.metacouwest{
+    color: white ;
+
+}
+.button32{
+background-color:#8cc63e;
+border-radius: 20px ;
+width: 190px ;
+height: 30px ;
+color: white ;
+border: 2px solid white ;
+margin-top: 20px ;
+}
+.forthepic{
+    background-image: url(../image/0166acc2-00ec-41d2-90b1-72fc92977df8.jpg);
+    width: 370px ;
+    height: 570px ;
+    margin-right: 50px ;
+    margin-top: 20px ;
+}
+
+.china{
+    font-size: 50px ;
+    padding-top: 178px ;
+    color: #428995;
+    margin-left: 100px ;
+}
+.egypt1{
+    color: #428995;
+    margin-left: 100px ;
+    font-size: 30px ;
+}
+.germany{
+    color:#8bc63d;
+    font-size: 87px ;
+    margin-left: 1200px ;
+}
+.fransiscoempire{
+    text-align: center;
+    color: #1b6174;
+}
+.britishempire{
+    color: #8bc63d;
+    text-align: center;
+    font-size: 30px ;
+}
+.mongolianempire{
+    color:#8bc63d;
+    font-size: 87px ;
+    margin-left: 100px ;
+}
+.thebigestparent{
+    width: 1150px ;
+    height: 400px ;
+    margin: auto;
+    background-size: cover ;
+    background-image: url(../image/52101bff-4f26-420c-b967-fbceaad817d0.jpg) ;
+    border-radius: 30px ;
+    background-position: center ;
+    margin-top: 100px ;
+    background-attachment: fixed ;
+    margin-bottom: 100px ;
+}
+.thebigone{
+color: white;
+text-align: center;
+padding-top: 55px ;
+font-size: 40px ;
+}
+.themaster{
+color: white;
+text-align: center;
+padding-top: 55px ;
+}
+.ms{
+color: white ;
+background-color:#f8673f;
+width: 210px ;
+font-size: 25px ;
+height: 60px ;
+border-radius: 30px ;
+border: 2px solid #f8673f  ;
+margin-top: 50px ;
+margin-left: 455px ;
+}
+.msfatmaisthebest{
+    background-image: url(../image/8d2be576-7e5e-4f3a-82ea-e0ec782d8e7c.jpg);
+    width: 100% ;
+    height: 280px ;
+    margin-top: 50px ;
+    padding-bottom: 150PX ;
+background-repeat: no-repeat ;
+background-size:cover;
+}
+.thejhs{
+    padding-top: 200px ;
+    padding-left: 500px ;
+}
+.the2thlast{
+    color: white ;
+}
+.thelastcodegoodbye{
+    color: white;
+    text-align: center;
+    padding-top: 15px ;
+}
